@@ -22,7 +22,7 @@ putchar(l);
 if (n != 55 || m != 56)
 {
 putchar(',');
-putchar(' '0;
+putchar(' ');
 }
 }
 }
